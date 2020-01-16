@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Week1_class2<H212_87e1e728>",
+            "request": "launch",
+            "mainClass": "BookProblems.Week1_class2",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<H212_87e1e728>",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<H212_87e1e728>(1)",
+            "request": "launch",
+            "mainClass": "PrincetonJava.HelloWorld",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UseArgument<H212_87e1e728>",
+            "request": "launch",
+            "mainClass": "PrincetonJava.UseArgument",
+            "projectName": "H212_87e1e728"
+        }
+    ]
+}

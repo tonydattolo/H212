@@ -1,0 +1,53 @@
+1.2 Built-in Data Types
+    
+    Basic types
+        int
+        double
+        boolean
+        char
+        String
+    
+    Literals - the value
+
+    Operators
+        and: &&
+        or: ||
+        not: !
+    
+    Identifiers - instances of a data type
+
+    Variables - entity that holds value. static in java.
+    
+    Declaration Statement - double totalSum;
+    
+    Naming conventions - camelCase
+    
+    Constant Variables - constant values. use uppercase with underscores
+        SPEED_OF_LIGHT
+
+    Expressions - 4 * (x - 3)
+
+    Operator Precedence - division, multiplication, addition, subtraction
+        Left associativity -    a - b - c == (a - b) - c
+    
+    Assignment Statements - initialize variable
+        int a,b;
+        a = 1;
+        b = 2;
+        int c = a + b;
+
+    Inline initialization
+        int x = 34;
+    
+Characters and Strings
+
+    char = 'a';
+    Escaped Characters
+        \t tab
+        \b backspace
+        \n newline
+        \r carriage return - returns cursor to the new line
+        \f formfeed - similar to new page or page break
+        \' single quote
+        \" double quote
+        \\ backslash

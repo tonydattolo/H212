@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - E1_17",
+            "request": "launch",
+            "mainClass": "Labs.Lab0.E1_17",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E1_16",
+            "request": "launch",
+            "mainClass": "Labs.Lab0.E1_16",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - E1_8",
             "request": "launch",
             "mainClass": "Labs.Lab0.E1_8",

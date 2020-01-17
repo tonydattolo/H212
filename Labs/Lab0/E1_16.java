@@ -10,3 +10,4 @@ public class E1_16 {
         System.out.println(name);
     }
 }
+//JFrame window pops up asking my name, I type in tony, tony prints out in the terminal

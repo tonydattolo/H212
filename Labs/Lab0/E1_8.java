@@ -6,6 +6,11 @@ package Labs.Lab0;
 public class E1_8 {
 
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("  //////  ");
+        System.out.println(" +\"\"\"\"\"+ ");
+        System.out.println("(| o o |)");
+        System.out.println(" |  ^  |  ");
+        System.out.println(" | '-' |  ");
+        System.out.println(" +-----+ ");
     }
 }

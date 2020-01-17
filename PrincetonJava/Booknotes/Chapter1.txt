@@ -51,3 +51,16 @@ Characters and Strings
         \' single quote
         \" double quote
         \\ backslash
+    String Concatenation +
+    String to int conversion
+        If you add two variables together, one string one int, it'll be string
+            String a = "1234";      String a = "1234";
+            int b = 99;             String b = "99";
+            String c = a + b;       String c = a + b; //same "123499"
+    Convert strings to number for input
+        Integer.parseInt(args[0])
+        Double.parseDouble()
+
+Integers
+    
+

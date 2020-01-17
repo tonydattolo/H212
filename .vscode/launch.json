@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - One",
+            "request": "launch",
+            "mainClass": "ClassProblems.Class2.One",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - strings0",
+            "request": "launch",
+            "mainClass": "ClassProblems.Class2.strings0",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bigdecimal1",
+            "request": "launch",
+            "mainClass": "ClassProblems.Class2.bigdecimal1",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - class2",
+            "request": "launch",
+            "mainClass": "ClassProblems.class2",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "PrincetonJava.HelloWorld",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"

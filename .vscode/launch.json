@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - runRutabega",
+            "request": "launch",
+            "mainClass": "ClassProblems.Class3.runRutabega",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rutabega",
+            "request": "launch",
+            "mainClass": "ClassProblems.Class3.Rutabega",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fib0",
+            "request": "launch",
+            "mainClass": "ClassProblems.Class3.fib0",
+            "projectName": "H212_e5d32889"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - E1_17",
             "request": "launch",
             "mainClass": "Labs.Lab0.E1_17",

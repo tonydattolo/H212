@@ -62,5 +62,10 @@ Characters and Strings
         Double.parseDouble()
 
 Integers
-    
+
+Methods - java programs are classes, its functions are Methods
+    static Methods
+        public static int fun(int index)
+    non-static Methods
+        public int fun(int index)
 

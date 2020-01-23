@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "Homework.test",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Homework01",
+            "request": "launch",
+            "mainClass": "Homework.Homework01",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BottomUpFibonacci",
+            "request": "launch",
+            "mainClass": "PrincetonJava.CodeSamples.BottomUpFibonacci",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TopDownFibonacci",
+            "request": "launch",
+            "mainClass": "PrincetonJava.CodeSamples.TopDownFibonacci",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quadratic",
+            "request": "launch",
+            "mainClass": "PrincetonJava.CodeSamples.Quadratic",
+            "projectName": "H212_87e1e728"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - runRutabega",
             "request": "launch",
             "mainClass": "ClassProblems.Class3.runRutabega",
